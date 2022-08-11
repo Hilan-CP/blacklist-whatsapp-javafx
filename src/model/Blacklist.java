@@ -27,8 +27,8 @@ public class Blacklist {
 		blacklistFiles.add(file);
 	}
 	
-	public void removeBlacklistFiles(File file) {
-		blacklistFiles.remove(file);
+	public void removeBlacklistFiles(int index) {
+		blacklistFiles.remove(index);
 	}
 	
 	

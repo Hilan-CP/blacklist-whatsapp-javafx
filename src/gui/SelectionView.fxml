@@ -48,7 +48,7 @@
       </ToolBar>
    </bottom>
    <center>
-      <ListView fx:id="blacklists" prefHeight="200.0" prefWidth="200.0" BorderPane.alignment="CENTER">
+      <ListView fx:id="blacklistView" prefHeight="200.0" prefWidth="200.0" BorderPane.alignment="CENTER">
          <BorderPane.margin>
             <Insets left="15.0" right="15.0" top="10.0" />
          </BorderPane.margin>
